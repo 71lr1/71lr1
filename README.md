@@ -2,6 +2,6 @@
 ![Trenner](https://capsule-render.vercel.app/api?type=rect&color=ffffff&height=2&section=footer)
 <p align="center">
   <a href="https://discord.com/users/1394655251637731342">
-    <img src="https://lanyard.vercel.app/api/1394655251637731342?borderRadius=10px&idleMessage=Ich%20bin%20gerade%20AFK..." alt="Discord Status" />
+    <img src="https://api.lanyard.rest/v1/users/1394655251637731342" alt="Discord Status" />
   </a>
 </p>
