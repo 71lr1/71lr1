@@ -3,7 +3,7 @@
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1394655251637731342)
 <p align="center">
   <a href="https://www.roblox.com/users/5359329444/profile">
-    <img src="[https://www.roblox.com/headshot-thumbnail/image?userId=5359329444&width=150&height=150&format=png](https://tr.rbxcdn.com/30DAY-AvatarHeadshot-EABE549B066CA49CBCA566F70C9E3B8E-Png/150/150/AvatarHeadshot/Webp/noFilter)" 
+    <img src="https://tr.rbxcdn.com/30DAY-AvatarHeadshot-EABE549B066CA49CBCA566F70C9E3B8E-Png/150/150/AvatarHeadshot/Webp/noFilter" 
          alt="Mein Roblox Avatar" 
          style="border-radius: 50%; border: 2px solid white;" />
   </a>
