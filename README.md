@@ -10,7 +10,7 @@
              style="border-radius: 50%; border: 4px solid #5865F2; display: block;" 
              width="150" />
       </a>
-      <p align="center"><b>Mein Roblox Profil</b></p>
+      <p align="center"><b>vanish</b></p>
     </td>
     <td align="left" valign="top">
       <h2>Willkommen auf meinem Profil! 👋</h2>
